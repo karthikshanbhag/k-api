@@ -1,6 +1,6 @@
-[{"name":"John","age":30,"usn":"1PI16CS001"},
-{"name":"Jane","age":20,"usn":"1PI16CS002"},
-{"name":"Doe","age":40,"usn":"1PI16CS003"},
-{"name":"ram","age":24,"usn":"1PI16CS004"},
-{"name":"shyam","age":25,"usn":"1PI16CS005"}
+[{"name":"John","age":30,"usn":"1PI16CS001","imgUrl":"https://www.w3schools.com/howto/img_avatar.png"},
+{"name":"Jane","age":20,"usn":"1PI16CS002","imgUrl":"https://www.w3schools.com/howto/img_avatar.png"},
+{"name":"Doe","age":40,"usn":"1PI16CS003","imgUrl":"https://www.w3schools.com/howto/img_avatar.png"},
+{"name":"ram","age":24,"usn":"1PI16CS004","imgUrl":"https://www.w3schools.com/howto/img_avatar.png"},
+{"name":"shyam","age":25,"usn":"1PI16CS005","imgUrl":"https://www.w3schools.com/howto/img_avatar.png"}
 ]
